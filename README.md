@@ -1,2 +1,1 @@
-# codica-js
-Un repositorio para codica
+Mi primer proyecto en Códica
